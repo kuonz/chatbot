@@ -8,4 +8,4 @@
 
 ### 使用示例
 
-![](./images/demo.png)
+![](https://github.com/kuonz/chatbot/blob/master/images/demo.png)
